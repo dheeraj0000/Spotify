@@ -1,3 +1,4 @@
 backend
 docker-compose.yaml
 README.md
+.gitignore
